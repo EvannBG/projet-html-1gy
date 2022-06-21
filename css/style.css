@@ -20,10 +20,16 @@ h2{
 	color: #ffffff 
 } 
  
-h3{ 
+h3.white{ 
 	margin-left: 7rem; 
 	font-size: 3rem; 
 	color: #ffffff 
+} 
+
+h3.black{ 
+	margin-left: 7rem; 
+	font-size: 3rem; 
+	color: #000000 
 } 
  
 h4, h5{ 
@@ -63,6 +69,10 @@ nav ul{
 	align-items: center; 
 	list-style: none; 
 } 
+
+ul{
+	flex: 2rem;
+}
  
 #logo{ 
 	flex: 2 1 30rem; 
@@ -83,10 +93,11 @@ nav ul{
 	border-radius: 1rem; 
 	width: 100%; 
 } 
+
+
  
 /* COLOR */ 
  
 .color{ 
 	color: #DC143C; 
 } 
- 
