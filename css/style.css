@@ -19,8 +19,14 @@ h2{
 	font-size: 4.8rem; 
 	color: #ffffff 
 } 
+
+h2.black{
+	margin-left: 7rem; 
+	font-size: 4.8rem; 
+	color: #000000
+}
  
-h3.white{ 
+h3{ 
 	margin-left: 7rem; 
 	font-size: 3rem; 
 	color: #ffffff 
@@ -39,6 +45,12 @@ h4, h5{
 li{ 
 	font-size: 1.4rem; 
 } 
+
+li.body{
+	margin-left: 8.5rem; 
+	font-size: large;
+	color: #000000
+}
  
 a{ 
 	color: #ffffff; 
