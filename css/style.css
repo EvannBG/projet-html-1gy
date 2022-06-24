@@ -56,7 +56,13 @@ a{
 	color: #ffffff; 
 	text-decoration: none; 
 } 
- 
+
+p{
+	margin-left: 7rem; 
+	font-size: 2.5rem; 
+	color: #000000 
+}
+
 /* HEADER */ 
  
 .main-head{ 
