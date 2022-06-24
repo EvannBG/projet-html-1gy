@@ -15,7 +15,7 @@ h1{
 } 
  
 h2{ 
-	margin-left: 7rem; 
+	margin-left: 6rem; 
 	font-size: 4.8rem; 
 	color: #ffffff 
 } 
@@ -27,7 +27,7 @@ h2.black{
 }
  
 h3{ 
-	margin-left: 7rem; 
+	margin-left: 6rem; 
 	font-size: 3rem; 
 	color: #ffffff 
 } 
@@ -48,7 +48,7 @@ li{
 
 li.body{
 	margin-left: 8.5rem; 
-	font-size: large;
+	font-size: 2rem;
 	color: #000000
 }
  
@@ -56,6 +56,12 @@ a{
 	color: #ffffff; 
 	text-decoration: none; 
 } 
+
+a.grand{
+	margin-left: 7rem; 
+	font-size: 3rem; 
+	color: #1487cf 
+}
 
 p{
 	margin-left: 7rem; 
@@ -97,10 +103,9 @@ ul{
 } 
 
 .col-size {
-	margin-left: 7rem;
-	width: 80%;
-	height: 75vh;
-	background: #ffffff94;
+	width: 100%;
+	height: 85vh;
+	background: #00000094;
   }
  
 /* BUTTON */ 
